@@ -16,11 +16,9 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
 
 ### Mobile
  ![Flutter Badge](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF)
- ![Kivy Badge](https://img.shields.io/badge/Kivy-%234B8F3C.svg?style=for-the-badge&logo=kivy&logoColor=%23FFFFFF)
- ![Kivy Logo](https://kivy.org/logos/kivy-logo-black-64.png)
+ ![Kivy Badge](https://img.shields.io/badge/kivy-%234B8F3C.svg?style=for-the-badge&logo=kivy&logoColor=%23FFFFFF)
 
-
-
+ 
 ### Backend 
  ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
 

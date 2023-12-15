@@ -15,20 +15,6 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Joblyn&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Joblyn&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Joblyn&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Joblyn&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-## Badges
-[![@joblyn's Holopin board](https://holopin.io/api/user/board?user=joblyn)](https://holopin.io/@joblyn)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--mvoi2vUk--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/2/1-year-badge.png)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--7LzjnbaB--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/9/2year-Badge-shadow__1_.png)
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--ajGtUgSU--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)
-
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Joblyn) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/job-oaikhenah-5056111a1/)

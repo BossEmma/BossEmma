@@ -14,8 +14,9 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 
-### Mobile Frontend
+### Mobile
  ![Flutter Badge](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF)
+ ![Kivy Badge](https://img.shields.io/badge/Kivy-%234B8F3C.svg?style=for-the-badge&logo=kivy&logoColor=%23FFFFFF)
 
 
 ### Backend 

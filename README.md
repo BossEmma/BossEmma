@@ -8,9 +8,9 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
 ### Web Frontend 
  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+ ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
- ![Bootstrap Badge](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=%23FFFFFF)
 
 ### Mobile Frontend
  ![Flutter Badge](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF)
@@ -18,8 +18,8 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
 ### Backend 
  ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
 
-### Hosting (Cloud)
-  ![Railway Hosting Badge](https://img.shields.io/badge/Railway-%23027AC8.svg?style=for-the-badge&logo=railway&logoColor=%23FFFFFF)
+### Hosting
+  ![Railway Hosting Badge](https://img.shields.io/badge/Railway-%237952B3.svg?style=for-the-badge&logo=railway&logoColor=%23FFFFFF)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
   
@@ -30,4 +30,3 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
 
 ## 💰 You can support my work by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Joblyn ) 
-  

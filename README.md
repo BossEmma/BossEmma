@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality. I also write technical articles and speak at tech events as a means to share my knowledge and experience with the global tech community.  
+Hi there! My name is Emmanuel I'm a Web and mobile develoer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
 
 # 💻 Technologies I work with:
 ### Primary Language
@@ -30,3 +30,5 @@ Hi there! I’m a Software Engineer. I develop awesome, aesthetic, performant, a
   ![Railway Hosting Badge](https://img.shields.io/badge/Railway-%237952B3.svg?style=for-the-badge&logo=railway&logoColor=%23FFFFFF)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![Render Hosting Badge](https://img.shields.io/badge/Render-%2343853D.svg?style=for-the-badge&logo=render&logoColor=%23FFFFFF)
+

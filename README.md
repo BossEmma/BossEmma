@@ -2,7 +2,7 @@
 Hi there! My name is Emmanuel I am a Web and mobile develoer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
 
 # 💻 Technologies I work with:
-### Primary Language
+### Primary Languages
  ![Python Badge](https://img.shields.io/badge/python-%23008080.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 

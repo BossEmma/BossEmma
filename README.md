@@ -19,6 +19,9 @@ Hi there! My name is Emmanuel I am a Web and mobile develoer. I develop awesome,
 ### Mobile
  ![Flutter Badge](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=%23FFFFFF)
  ![Kivy Badge](https://img.shields.io/badge/kivy-%234B8F3C.svg?style=for-the-badge&logo=kivy&logoColor=%23FFFFFF)
+ ![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+
+
 
  
 ### Backend 

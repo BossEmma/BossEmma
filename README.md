@@ -16,6 +16,8 @@ Hi there! My name is Emmanuel I am a Web and mobile develoer. I develop awesome,
 
 
 ### Mobile
+ ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactnative.dev/)
+
  ![React Native](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 

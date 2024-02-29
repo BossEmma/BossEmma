@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Emmanuel I am a Web and mobile develoer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
+Hi there! My name is Emmanuel I am a full stack web and mobile developer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
 
 
 # 💻 Technologies I work with:
@@ -26,6 +26,8 @@ Hi there! My name is Emmanuel I am a Web and mobile develoer. I develop awesome,
 ### Database
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
 
+### Version Control
+  ![Git Badge](https://img.shields.io/badge/Git-%23336791.svg?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
 
 ### Hosting
   ![Railway Hosting Badge](https://img.shields.io/badge/Railway-%237952B3.svg?style=for-the-badge&logo=railway&logoColor=%23FFFFFF)

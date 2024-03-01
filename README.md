@@ -27,8 +27,8 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I deve
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
 
 ### Version Control
-  ![Git Badge](https://img.shields.io/badge/Git-%23336791.svg?style=for-the-badge&logo=git&logoColor=orange)
-  ![Github Badge](https://img.shields.io/badge/Github-%23336791.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+  ![Git Badge](https://img.shields.io/badge/Git-orange.svg?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
+  ![Github Badge](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
 
 ### Hosting
   ![Railway Hosting Badge](https://img.shields.io/badge/Railway-%237952B3.svg?style=for-the-badge&logo=railway&logoColor=%23FFFFFF)

@@ -17,7 +17,7 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
 
 ### Mobile
  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Expo](https://img.shields.io/badge/expo-%2320232a.svg?style=for-the-badge&logo=expo&logoColor=%2361DAFB)
+ ![Expo](https://img.shields.io/badge/expo-black.svg?style=for-the-badge&logo=expo&logoColor=white)
 
 
 ### Backend 

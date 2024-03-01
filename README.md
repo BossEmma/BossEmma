@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Emmanuel I am a full stack web and mobile developer. I develop awesome, aesthetic, performant, and accessible user interfaces, to improve the experience of users on the web, and help businesses thrive. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
+Hi there! My name is Emmanuel I am a full stack web and mobile developer. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
 
 
 # 💻 Technologies I work with:

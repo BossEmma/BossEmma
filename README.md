@@ -38,4 +38,5 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
 
 ### Others
   ![vscode Badge](https://img.shields.io/badge/vscode-orange.svg?style=for-the-badge&logo=vscode&logoColor=%23FFFFFF)
+  ![bash Badge](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=bash&logoColor=%23FFFFFF)
   ![Linux Badge](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)

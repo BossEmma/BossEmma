@@ -22,11 +22,13 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
   ![SQLite Badge](https://img.shields.io/badge/SQLite-white.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
 
-### Version Control
+### Others
   ![Git Badge](https://img.shields.io/badge/Git-orange.svg?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
   ![Github Badge](https://img.shields.io/badge/Github-black.svg?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+  ![VsCode Badge](https://img.shields.io/badge/VsCode-orange.svg?style=for-the-badge&logo=vscode&logoColor=%23FFFFFF)
+  ![Linux Badge](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)
 
-### Hosting
+<!--### Hosting
   ![Railway Hosting Badge](https://img.shields.io/badge/Railway-%237952B3.svg?style=for-the-badge&logo=railway&logoColor=%23FFFFFF)
   ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-  ![Render Hosting Badge](https://img.shields.io/badge/Render-%2343853D.svg?style=for-the-badge&logo=render&logoColor=%23FFFFFF)
+  ![Render Hosting Badge](https://img.shields.io/badge/Render-%2343853D.svg?style=for-the-badge&logo=render&logoColor=%23FFFFFF)-->

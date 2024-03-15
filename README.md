@@ -23,8 +23,6 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
   ![SQLite Badge](https://img.shields.io/badge/SQLite-white.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
 
-
-<!--### Others
-  ![vscode Badge](https://img.shields.io/badge/vscode-orange.svg?style=for-the-badge&logo=vscode&logoColor=%23FFFFFF)
+### Others
   ![bash Badge](https://img.shields.io/badge/bash-black.svg?style=for-the-badge&logo=bash&logoColor=%23FFFFFF)
-  ![Linux Badge](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)-->
+  ![Linux Badge](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)

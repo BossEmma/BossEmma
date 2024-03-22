@@ -18,7 +18,3 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
 
 ### Back-End 
    ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
-
-### Others
-  ![bash Badge](https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=bash&logoColor=%23FFFFFF)
-  ![Linux Badge](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)

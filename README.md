@@ -19,10 +19,6 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
 ### Back-End 
    ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
 
-### Database
-  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
-  ![SQLite Badge](https://img.shields.io/badge/SQLite-white.svg?style=for-the-badge&logo=sqlite&logoColor=blue)
-
 ### Others
   ![bash Badge](https://img.shields.io/badge/Bash-black.svg?style=for-the-badge&logo=bash&logoColor=%23FFFFFF)
   ![Linux Badge](https://img.shields.io/badge/Linux-black.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)

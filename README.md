@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! My name is Emmanuel I am a full stack web, mobile and blockchain developer. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
+Hi there! My name is Emmanuel, I am a full stack web, mobile and blockchain developer. I build agile software applications, using modern technologies and best practices to enhance code quality, while ensuring optimum functionality.  
 
 
 # 💻 Technologies I work with:

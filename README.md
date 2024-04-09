@@ -21,5 +21,5 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
 
 ### Blockchain
   ![Ethereum](https://img.shields.io/badge/ethereum-black.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-  ![Solidity](https://img.shields.io/badge/solidity-%2320232a.svg?style=for-the-badge&logo=solidity&logoColor=%23B51717)
+  ![Solidity](https://img.shields.io/badge/solidity-white.svg?style=for-the-badge&logo=solidity&logoColor=%23B51717)
   ![web3.py](https://img.shields.io/badge/web3.py-%2312100E.svg?style=for-the-badge&logo=ethereum&logoColor=white)

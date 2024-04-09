@@ -19,7 +19,7 @@ Hi there! My name is Emmanuel I am a full stack web and mobile developer. I buil
 ### Back-End 
    ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
 
-### Web3
-  ![Ethereum](https://img.shields.io/badge/ethereum-%2331A8FF.svg?style=for-the-badge&logo=ethereum&logoColor=white)
+### Blockchain
+  ![Ethereum](https://img.shields.io/badge/ethereum-%23313131.svg?style=for-the-badge&logo=ethereum&logoColor=white)
   ![Solidity](https://img.shields.io/badge/solidity-%2320232a.svg?style=for-the-badge&logo=solidity&logoColor=%23B51717)
   ![web3.py](https://img.shields.io/badge/web3.py-%2312100E.svg?style=for-the-badge&logo=ethereum&logoColor=white)

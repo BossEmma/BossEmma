@@ -23,4 +23,6 @@ Hi there! My name is Emmanuel, I am a full stack web, mobile and blockchain deve
 ### Blockchain
   ![Ethereum](https://img.shields.io/badge/ethereum-%23313131.svg?style=for-the-badge&logo=ethereum&logoColor=white)
   ![Solidity](https://img.shields.io/badge/solidity-white.svg?style=for-the-badge&logo=solidity&logoColor=%23B51717)
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)  
+  ![Solana](https://img.shields.io/badge/solana-%23000000.svg?style=for-the-badge&logo=solana&logoColor=#8A2BE2)
   ![web3.py](https://img.shields.io/badge/web3.py-%2312100E.svg?style=for-the-badge&logo=ethereum&logoColor=white)

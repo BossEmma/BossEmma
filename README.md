@@ -14,8 +14,8 @@ Hi there! My name is Emmanuel, I am a full stack web, mobile and blockchain deve
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Mobile
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Expo](https://img.shields.io/badge/expo-black.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ### Back-End 
    ![Django Badge](https://img.shields.io/badge/django-%2304AA51.svg?style=for-the-badge&logo=django&logoColor=%23FFFFFF)
